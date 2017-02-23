@@ -1,4 +1,6 @@
-# ng-password-strength
+# ng-password-strength-2017
+
+This version has an updated tag so that bower injection works.
 
 Password strength checker wrapped in an angular directive
 Based on:
